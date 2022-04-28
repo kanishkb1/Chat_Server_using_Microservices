@@ -48,7 +48,7 @@ The live chat service can be accessed externally (using browsers)
 -> http://104.197.187.65:8080/
 
 
-Task 3:  Orchestration (MiniKube)
+## Task 3:  Orchestration (MiniKube)
 
  Deploy the MongoDB object correctly in the miniKube case.
 -> ls 
