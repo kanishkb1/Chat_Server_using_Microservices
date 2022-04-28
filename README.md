@@ -1,7 +1,7 @@
 # Chat_Server_using_Microservices
 This repository contains the code for CS552: Introduction to Cloud Computing.
 
-Task 1: Native Case 
+## Task 1: Native Case 
 Run the MongoDB correctly in the native case. 
 -> sudo mongod --bind_ip=0.0.0.0 &
 
@@ -17,7 +17,7 @@ The live chat service can be accessed externally (using browsers)
 -> http://104.197.187.65:8080/
 
 
-Task 2: Containerization
+## Task 2: Containerization
 
 Run the MongoDB correctly in the container case
 -> cd miniproject2-container/
@@ -36,9 +36,10 @@ Then again give the command-
 
 Run the webserver correctly in the container case
 -> If you are in the minidocker file, give following command-
-	-> cd ..
+
+-> cd ..
 	
-	-> cd miniproject2-container/webserver
+-> cd miniproject2-container/webserver
 	
 	-> make run 
 The live chat service can be accessed externally (using browsers)
