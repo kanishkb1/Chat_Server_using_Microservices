@@ -1,5 +1,5 @@
 # Chat_Server_using_Microservices
-This repository contains the code for CS552: Introduction to Cloud Computing.
+This repository contains the code for miniproject 2 for CS552: Introduction to Cloud Computing and using Docker, Minikube, MongoDB and Flask.
 
 ## Task 1: Native Case 
 Run the MongoDB correctly in the native case. 
